@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NnamdiEzenekwe
+- 👋 Hi, I’m @Nnamdi Ben-Ezenekwe
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Backend Dev.
 - 💞️ I’m looking to collaborate on Anything to ehance my learning and better master my craft
